@@ -1,0 +1,12 @@
+.emyu{
+    height: 40px;
+    width: auto;
+}
+@font-face {
+    font-family: 'MyCustomFont';
+    src: url('assets/fonts/fontbaru.ttf');
+}
+
+.font-custom{
+    font-family: 'fontbaru';
+}
